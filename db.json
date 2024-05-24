@@ -69,6 +69,36 @@
         "farm-price": "293,000,000",
         "farm-img": "https://portal.andina.pe/EDPfotografia3/Thumbnail/2019/07/24/000603631W.jpg",
         "farm-information": "15 Graneros -  15 Corrales  -  Agua Potable"
+      },
+          {
+        "id": "farm-8",
+        "location": "Ica",
+        "farm-name": "Granja el Papi",
+        "type-farm": "Ovejas",
+        "farm-hectares": "50 ha",
+        "farm-price": "293,000,000",
+        "farm-img": "https://portal.andina.pe/EDPfotografia3/Thumbnail/2019/07/24/000603631W.jpg",
+        "farm-information": "15 Graneros -  15 Corrales  -  Agua Potable"
+      }
+          {
+        "id": "farm-9",
+        "location": "Ica",
+        "farm-name": "Granja el Papi",
+        "type-farm": "Ovejas",
+        "farm-hectares": "50 ha",
+        "farm-price": "293,000,000",
+        "farm-img": "https://portal.andina.pe/EDPfotografia3/Thumbnail/2019/07/24/000603631W.jpg",
+        "farm-information": "15 Graneros -  15 Corrales  -  Agua Potable"
+      },
+          {
+        "id": "farm-10",
+        "location": "Ica",
+        "farm-name": "Granja el Papi",
+        "type-farm": "Ovejas",
+        "farm-hectares": "50 ha",
+        "farm-price": "293,000,000",
+        "farm-img": "https://portal.andina.pe/EDPfotografia3/Thumbnail/2019/07/24/000603631W.jpg",
+        "farm-information": "15 Graneros -  15 Corrales  -  Agua Potable"
       }
     ]
   }
